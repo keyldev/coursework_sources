@@ -6,7 +6,7 @@
 * Visual Studio 2019 и дополнения для "разработок игр"
 * Исходный код Unreal Engine 4 с офф. гитхаба.
 
-### C# Launcher 
+### C# Launcher (launcher_sources)
 Библиотеки <br>
 * Autoupdater.Net.Official 1.5.7
 * DotNetZip.1.13.4
