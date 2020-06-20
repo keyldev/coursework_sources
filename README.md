@@ -1,6 +1,6 @@
 ## Сурсы необходимые для сборки проектов C# Launcher и Battle Royale Game UE4
 
-### Battle Royale
+### Battle Royal
 Сурсы необходимые для сборки Battle Royale (очень трудное занятие)
 * Unreal Engine 4
 * Visual Studio 2019 и дополнения для "разработок игр"
